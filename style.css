@@ -1,0 +1,20 @@
+.navbar {
+  justify-content: start;
+}
+
+a {
+  margin-right: 15px;
+}
+
+a:hover {
+  opacity: 0.6;
+}
+
+.jumbotron {
+  margin-bottom: 0;
+  min-height: 94vh;
+}
+
+img {
+  padding-top: 15px;
+}
